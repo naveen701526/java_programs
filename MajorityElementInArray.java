@@ -3,6 +3,7 @@ import java.util.Map;
 import java.util.Iterator;
 import java.util.Arrays; 
 
+// class which finds the majority element in an array
 public class MajorityElementInArray
 {
   	public static void main (String[] args)

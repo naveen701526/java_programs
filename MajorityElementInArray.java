@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Iterator;
 import java.util.Arrays; 
 
-public class Main
+public class MajorityElementInArray
 {
   	public static void main (String[] args)
 	{

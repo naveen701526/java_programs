@@ -13,8 +13,7 @@
 // Compare the sum of digits with the sum of digits of its prime factors i.e. 13=13. Both are equal. Hence, the given number (85) is a smith number.
 
 import java.util.*;  
-public class SmithNumberExample1  
-{  
+public class SmithNumber{  
 //function finds the sum of digits of its prime factors  
 static int findSumPrimeFactors(int n)  
 {  
